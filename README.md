@@ -1,2 +1,2 @@
 # nvim-scagl1
-My personal nvim config + plugins
+My personal nvim config
