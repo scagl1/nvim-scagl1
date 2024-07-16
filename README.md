@@ -1,2 +1,2 @@
 # nvim-scagl1
-My personal nvim submodule config
+nvim config files
