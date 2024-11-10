@@ -1,10 +1,12 @@
 return {
 	"scottmckendry/cyberdream.nvim",
+
+	lazy = false,
+	priority = 1000,
+
 	config = function()
-		-- Defina o esquema de cores
 		vim.cmd("colorscheme cyberdream")
 
-		-- Configurar a transparência
 		vim.cmd([[
       hi Normal guibg=NONE ctermbg=NONE
       hi LineNr guibg=NONE ctermbg=NONE
