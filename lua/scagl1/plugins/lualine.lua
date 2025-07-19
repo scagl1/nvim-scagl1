@@ -63,7 +63,7 @@ return {
 						color = { fg = "#ff9e64" },
 					},
 					{ "encoding" },
-					{ "fileformat", symbols = { unix = "" } },
+					{ "fileformat", symbols = { unix = "󰌽", dos = "󰍲", mac = "" } },
 					{ "filetype" },
 				},
 			},
