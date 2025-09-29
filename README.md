@@ -12,6 +12,7 @@ My personal nvim config. Feel free to share and copy it.
 | [Comment](https://github.com/numToStr/Comment.nvim) | easy commenting |
 | [cyberdream](https://github.com/scottmckendry/cyberdream.nvim) | theme |
 | [dressing](https://github.com/stevearc/dressing.nvim) | improved UI for prompts |
+| [cloak](https://github.com/laytan/cloak.nvim) | hide envs |
 | [conform](https://github.com/stevearc/conform.nvim) | code formatter |
 | [gitsigns](https://github.com/lewis6991/gitsigns.nvim) | git diff signs |
 | [lazygit](https://github.com/kdheepak/lazygit.nvim) | lazygit integration |
